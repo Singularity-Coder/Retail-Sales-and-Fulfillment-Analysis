@@ -16,3 +16,6 @@ Gain insights into this brand's operations in Brazil. Insights and recommendatio
 
 ## Data Structure and Initial Checks
 ![alt text](https://github.com/Singularity-Coder/SQL-EDA/blob/main/assets/erd.png)
+![alt text](https://github.com/Singularity-Coder/SQL-EDA/blob/main/assets/tb1.png)
+![alt text](https://github.com/Singularity-Coder/SQL-EDA/blob/main/assets/tb2.png)
+
