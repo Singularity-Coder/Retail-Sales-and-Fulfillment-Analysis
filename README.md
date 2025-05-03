@@ -19,3 +19,4 @@ Gain insights into this brand's operations in Brazil. Insights and recommendatio
 ![alt text](https://github.com/Singularity-Coder/SQL-EDA/blob/main/assets/tb1.png)
 ![alt text](https://github.com/Singularity-Coder/SQL-EDA/blob/main/assets/tb2.png)
 
+## Executive Summary
