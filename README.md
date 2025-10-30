@@ -1,4 +1,4 @@
-# SQL-EDA
+# Retail Sales & Fulfillment Analysis
 
 ## Project Background
 A multinational brand similar to Amazon is a prominent retailer in the United States. This brand makes itself a preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.
