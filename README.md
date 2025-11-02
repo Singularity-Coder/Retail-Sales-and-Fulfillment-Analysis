@@ -1,3 +1,5 @@
+![alt text](https://github.com/Singularity-Coder/Retail-Sales-and-Fulfillment-Analysis/blob/main/assets/banner.png)
+
 # Retail Sales & Fulfillment Analysis
 
 ## Project Background
@@ -20,3 +22,7 @@ Gain insights into this brand's operations in Brazil. Insights and recommendatio
 ![alt text](https://github.com/Singularity-Coder/SQL-EDA/blob/main/assets/tb2.png)
 
 ## Executive Summary
+
+## Credits
+Photo by <a href="https://unsplash.com/@nathaliarosa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathália Rosa</a> on <a href="https://unsplash.com/photos/goods-on-shelf-rWMIbqmOxrY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
